@@ -4,7 +4,7 @@ This kernel module simulates a bar and its waiter. This bar is on campus and stu
 * Stanley Vossler
 * Matthew Echenique
 ### Waiter States
-| Waiter State | Meaning  |
+| Waiter States | Meaning  |
 |--------------|----------|
 | I            | Idle     |
 | L            | Loading  |
